@@ -31,7 +31,7 @@
   <a href="https://instagram.com/sudo.zen" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/sudozen" target="_blank">
+  <a href="https://leetcode.com/RecklessEri" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
 </p>
